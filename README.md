@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dklns
-- 👀 I'm just a cute new Corder
+- 👀 I'm just a cute novice
 
 
 <!---
