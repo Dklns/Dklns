@@ -24,10 +24,11 @@
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 </div>
 
+<br/>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Dklns&show_icons=true&theme=dracula&count_private=true)
 
-
-
+<br/>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dklns&theme=dark&layout=compact)
 
